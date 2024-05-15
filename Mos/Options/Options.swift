@@ -3,7 +3,7 @@
 //  Mos
 //  配置参数
 //  Created by Caldis on 2018/2/19.
-//  Copyright © 2018年 Caldis. All rights reserved.
+//  Copyright © 2018 Caldis. All rights reserved.
 //
 
 import Cocoa

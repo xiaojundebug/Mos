@@ -3,7 +3,7 @@
 //  Mos
 //  实用方法
 //  Created by Caldis on 2017/3/24.
-//  Copyright © 2017年 Caldis. All rights reserved.
+//  Copyright © 2017 Caldis. All rights reserved.
 //
 
 import Cocoa

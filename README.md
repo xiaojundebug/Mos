@@ -10,7 +10,7 @@
 ![Xcode 9.0+](https://img.shields.io/badge/Xcode-9.0%2B-blue.svg)
 ![Swift 4.0+](https://img.shields.io/badge/Swift-4.0%2B-orange.svg)
 
-一个用于在MacOS上平滑你的鼠标滚动效果的小工具, 让你的滚轮爽如触控板。
+一个用于在 MacOS 上平滑你的鼠标滚动效果的小工具, 让你的滚轮爽如触控板。
 
 [中文](https://github.com/Caldis/Mos/blob/master/README.md) | [English](https://github.com/Caldis/Mos/blob/master/README.enUS.md) |
 [Русский](https://github.com/Caldis/Mos/blob/master/README.ru.md)
@@ -49,9 +49,9 @@ http://mos.caldis.me/
 
 ## 下载及安装
 
-### Homebrew安装
+### Homebrew 安装
 
-Mos可通过[Homebrew](https://brew.sh)来安装:
+Mos 可通过 [Homebrew](https://brew.sh) 来安装:
 
 ```bash
 $ brew install mos

@@ -162,7 +162,7 @@ Upgrade Charts.
 
 # [1.6.1](https://github.com/Caldis/Mos/releases/tag/1.6.1)
 
-想起了当年玩PSP的日子
+想起了当年玩 PSP 的日子
 
 > DJMAX: Respect
 
@@ -205,7 +205,7 @@ Fixed a problem that could cause Mos to crash.
 
 ## 优化
 
-现在在Launchpad中会始终禁用平滑滚动
+现在在 Launchpad 中会始终禁用平滑滚动
 
 稍微改进了下写的很烂的判断逻辑
 
@@ -238,13 +238,13 @@ Increase the maximum value of the Speed Setting and Time Setting on advance pane
 
 ## 新功能
 
-您现在可以在设置面板中直接将Mos设为开机启动
+您现在可以在设置面板中直接将 Mos 设为开机启动
 
 ## 修正
 
 修正了滚动监控界面的布局样式问题
 
-修正了Launchpad添加到忽略列表后无效的问题
+修正了 Launchpad 添加到忽略列表后无效的问题
 
 修正了忽略列表中的应用程序在特定情况下忽略翻转滚动失效的问题
 
@@ -267,7 +267,7 @@ Fix a issue that scroll reverse option in ignore list could not be handled prope
 
 ## 修正
 
-修正了在 MacOS El Capitan (10.11) 下无法正常使用的问题 (仅在10.11.6下测试)
+修正了在 MacOS El Capitan (10.11) 下无法正常使用的问题 (仅在 10.11.6 下测试)
 
 ---
 
@@ -291,11 +291,11 @@ Fixed a problem will cause the Mos could not be handled properly while using Mac
 
 # [1.4.0](https://github.com/Caldis/Mos/releases/tag/1.4.0)
 
-现已采用DMG打包方式
+现已采用 DMG 打包方式
 
 ## 新功能
 
-鼠标滚动事件的Log功能, 用户可以通过在滚动监视器内的记录功能来记录自己的问题滚动数据, 便于反馈修正问题
+鼠标滚动事件的 Log 功能, 用户可以通过在滚动监视器内的记录功能来记录自己的问题滚动数据, 便于反馈修正问题
 
 ## 修正
 

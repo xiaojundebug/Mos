@@ -3,7 +3,7 @@
 //  Mos
 //  滚动事件截取与判断核心工具方法
 //  Created by Caldis on 2018/2/19.
-//  Copyright © 2018年 Caldis. All rights reserved.
+//  Copyright © 2018 Caldis. All rights reserved.
 //
 
 import Cocoa
@@ -91,7 +91,7 @@ class ScrollUtils {
         // 如果距离上次检测时间大于 1s, 则重新检测一遍, 否则直接返回上次的结果
         let nowTime = NSDate().timeIntervalSince1970
         if nowTime - launchpadLastDetectTime > 1.0 {
-            // 10.15以下需要根据 windowList 判断
+            // 10.15 以下需要根据 windowList 判断
             let windowInfoList = CGWindowListCopyWindowInfo(CGWindowListOption.optionOnScreenOnly, CGWindowID(0)) as [AnyObject]?
             for windowInfo in windowInfoList! {
                 let windowName = windowInfo[kCGWindowName]!

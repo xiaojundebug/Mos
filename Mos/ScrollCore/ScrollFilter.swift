@@ -3,7 +3,7 @@
 //  Mos
 //  曲线峰值滤波, 用于去除滚动的起始抖动
 //  Created by Caldis on 2018/3/21.
-//  Copyright © 2018年 Caldis. All rights reserved.
+//  Copyright © 2018 Caldis. All rights reserved.
 //
 
 import Cocoa

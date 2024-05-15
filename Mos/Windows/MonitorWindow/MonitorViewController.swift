@@ -3,7 +3,7 @@
 //  Mos
 //  滚动监控界面
 //  Created by Caldis on 2017/1/10.
-//  Copyright © 2017年 Caldis. All rights reserved.
+//  Copyright © 2017 Caldis. All rights reserved.
 //
 
 import Cocoa
@@ -15,7 +15,7 @@ class MonitorViewController: NSViewController, ChartViewDelegate {
     var lineChartCount = 0.0
     @IBOutlet weak var lineChart: LineChartView!
     
-    // 文字Log区域相关
+    // 文字 Log 区域相关
     @IBOutlet var parsedLogTextField: NSTextView!
     @IBOutlet var scrollLogTextField: NSTextView!
     @IBOutlet var scrollDetailLogTextField: NSTextView!
@@ -109,7 +109,7 @@ class MonitorViewController: NSViewController, ChartViewDelegate {
             lineChart.notifyDataSetChanged()
             lineChartCount += 1.0
         }
-        // 更新Log区域
+        // 更新 Log 区域
         parsedLogTextField.string = Logger.getParsedLog(form: event)
         scrollLogTextField.string = Logger.getScrollLog(form: event)
         scrollDetailLogTextField.string = Logger.getScrollDetailLog(form: event)

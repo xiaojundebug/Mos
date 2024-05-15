@@ -3,7 +3,7 @@
 //  Mos
 //  日志工具
 //  Created by Caldis on 2018/2/20.
-//  Copyright © 2018年 Caldis. All rights reserved.
+//  Copyright © 2018 Caldis. All rights reserved.
 //
 
 import Cocoa
@@ -51,7 +51,7 @@ class Logger {
         //       1: [触控板]开始(begin)
         //       2: [触控板]缓动动画进行中(continuous)
         //       3: [触控板]缓动动画完成(最后一下)(end)
-        // 2-1 内置bounce正常, chrome完全动不了
+        // 2-1 内置 bounce 正常, chrome 完全动不了
         return """
         scrollWheelEventInstantMouser: \(event.getDoubleValueField(.scrollWheelEventInstantMouser))
         scrollWheelEventIsContinuous: \(event.getDoubleValueField(.scrollWheelEventIsContinuous))

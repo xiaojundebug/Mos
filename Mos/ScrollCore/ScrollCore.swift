@@ -3,7 +3,7 @@
 //  Mos
 //  滚动事件截取与插值计算核心类
 //  Created by Caldis on 2017/1/14.
-//  Copyright © 2017年 Caldis. All rights reserved.
+//  Copyright © 2017 Caldis. All rights reserved.
 //
 
 import Cocoa
@@ -80,7 +80,7 @@ class ScrollCore {
         }
         // 滚动事件
         let scrollEvent = ScrollEvent(with: event)
-        // Y轴
+        // Y 轴
         if scrollEvent.Y.valid {
             // 是否翻转滚动
             if enableReverse {
@@ -96,7 +96,7 @@ class ScrollCore {
                 }
             }
         }
-        // X轴
+        // X 轴
         if scrollEvent.X.valid {
             // 是否翻转滚动
             if enableReverse {

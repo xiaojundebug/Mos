@@ -3,7 +3,7 @@
 //  Mos
 //  滚动事件基类
 //  Created by Caldis on 2018/2/24.
-//  Copyright © 2018年 Caldis. All rights reserved.
+//  Copyright © 2018 Caldis. All rights reserved.
 //
 
 import Cocoa

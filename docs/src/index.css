@@ -91,7 +91,7 @@ header {
 .logo label:active {
     transform: scale(1.0);
 }
-/*Github按钮*/
+/*Github 按钮*/
 .github {
     transition: fill .1s;
 }

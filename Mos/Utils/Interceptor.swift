@@ -3,7 +3,7 @@
 //  Mos
 //  事件截取工具函数
 //  Created by Caldis on 2018/3/18.
-//  Copyright © 2018年 Caldis. All rights reserved.
+//  Copyright © 2018 Caldis. All rights reserved.
 //
 
 import Cocoa

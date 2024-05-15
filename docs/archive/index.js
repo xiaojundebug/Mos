@@ -29,7 +29,7 @@ var i18nLanguageMappingList = {
         en: "Release Notes"
     },
     star: {
-        zh: "或者你可以来我们的 Github 赏个Star !",
+        zh: "或者你可以来我们的 Github 赏个 Star !",
         en: "Or Star the source code from Github !"
     },
     contact: {

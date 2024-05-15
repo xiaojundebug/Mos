@@ -3,7 +3,7 @@
 //  Mos
 //  偏好设置的 TabViewController 容器
 //  Created by Caldis on 2017/1/20.
-//  Copyright © 2017年 Caldis. All rights reserved.
+//  Copyright © 2017 Caldis. All rights reserved.
 //
 
 //  Transition 踩坑指南
